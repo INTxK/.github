@@ -2,7 +2,7 @@
 
 # Welcome to INTxK
 
-Welcome to INTxK, an initiative by Muhammad Mustafa Monowar, designed to support graduates and early-career professionals navigating the complexities of personal and professional growth.
+INTxK is an initiative by Muhammad Mustafa Monowar designed to support graduates and early-career professionals navigating the complexities of personal and professional growth.
 
 INTxK offers training sessions focusing on Organisation, Execution, and Problem-Solving catered towards Early-Career Professionals. It also runs workshops on Psychological Integrity, Learning, and Communication for new graduates.
 
