@@ -1,4 +1,4 @@
-![INTxK Github](https://user-images.githubusercontent.com/98450178/156933037-eefb4fb5-ebfa-48b7-8410-931924d6464d.gif)
+![INTxK Github](For GitHub.png)
 
 # Welcome to INTxK
 
