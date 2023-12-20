@@ -18,6 +18,6 @@ We also run workshops on:
 INTxK is committed to supporting independent learners' journey towards excellence. It exists to equip you with practical and effective tools for self-organisation and professional mastery.
 
 Keep an eye on this page because we'll be sharing free downloadables/templates soon.
-We accept your content requests in the [Forum][https://github.com/INTxK/Forum/issues]
+We accept your content requests in the [Forum](https://github.com/INTxK/Forum/issues)
 
 Best
