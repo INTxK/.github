@@ -2,15 +2,14 @@
 
 # Welcome to INTxK
 
-INTxK is a Knowledge Productivity Consultancy working at the intersection of People and Technology. INTxK helps Individuals and Organizations harness the potentials of knowledge management tools to gain competitive advantages. We add value to our clients by helping them design their knowledge base and training knowledge workers on soft skills and hard skills to become Learning Individuals and Organizations.
+Welcome to INTxK, an initiative by Muhammad Mustafa Monowar, designed to support graduates and early-career professionals navigating the complexities of personal and professional growth.
 
-## Core Principles
+INTxK offers training sessions focusing on Organisation, Execution, and Problem-Solving catered towards Early-Career Professionals. It also runs workshops on Psychological Integrity, Learning, and Communication for new graduates.
 
-- Continuous Learning
-- Data Driven Work
-- Innovation.
+INTxK is committed to supporting independent learners' journey towards excellence. It exists to equip you with practical and effective tools for self-organisation and professional mastery.
 
-## Where We Add Value
+Keep an eye on this page because we'll be sharing free downloadables/templates soon.
+You can share your requests in the [Forum][https://github.com/INTxK/Forum/issues]
 
-We add value to Individuals and Organizations who primarily deal with Knowledge Work. INTxK assists individuals master the art of Personal Knowledge Management and guides Organizations adopt Knowledge Management Strategies.
-
+Best
+Mustafa
