@@ -1,4 +1,4 @@
-![INTxK Github](/For GitHub.png)
+![INTxK Github](/banner.png)
 
 # Welcome to INTxK
 
