@@ -2,22 +2,12 @@
 
 # Welcome to INTxK
 
-INTxK is an initiative by Muhammad Mustafa Monowar designed to support fresh graduates and early-career professionals navigating the complexities of personal and professional growth.
+INTxK is a Productivity Agency working on making Productivity Systems accessible.
 
-INTxK offers personalised solutions with a focus on 
-- Organisation
-- Execution
-- Problem-Solving
-catered towards Early-Career Professionals.
+We are developing [The Polymod Framework](https://thepolymodframework.carrd.co), a versatile philosophy and an affordable system for building accountability and communicating value.
 
-We also run workshops on:
-- Psychological Integrity,
-- Learning, 
-- Communication for new graduates.
+Keep an eye on this page because we'll be sharing free downloadables/templates.
 
-INTxK is committed to supporting independent learners' journey towards excellence. It exists to equip you with practical and effective tools for self-organisation and professional mastery.
-
-Keep an eye on this page because we'll be sharing free downloadables/templates soon.
-We accept your content requests in the [Forum](https://github.com/INTxK/Forum/issues)
+You can now share your ideas and feedback in the [Forum](https://github.com/INTxK/Forum/issues)
 
 Best
